@@ -1,4 +1,4 @@
-# Qatar SELF Driving
+# Selfdriving system for Qatar's Traffic System
 Qatar License Plate Reader + Localization using  Machine Learning
 
 ![alt text](https://i.postimg.cc/sX6WhznZ/intro.png)
