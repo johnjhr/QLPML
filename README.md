@@ -1,4 +1,4 @@
-# QLPML
+# Qatar SELF Driving
 Qatar License Plate Reader + Localization using  Machine Learning
 
 ![alt text](https://i.postimg.cc/sX6WhznZ/intro.png)
